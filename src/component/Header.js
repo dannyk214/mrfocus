@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../image/logo2.jpg"
+import logo from "../image/logo.png"
 
 function Header(){
     return(
@@ -10,8 +10,7 @@ function Header(){
         className="logo1"
         />
      </div>
-       <div className="h"><h1>Daniel Umukoro</h1>
-        <h4>Web developer</h4>
+       <div className="h"><h1>Edoghaeobare Aisosa Emmanuella</h1>
         </div>
 
         <div className="btn">
